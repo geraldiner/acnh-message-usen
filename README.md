@@ -7,6 +7,7 @@ Forked to be used for training Joie Discord Bot (https://github.com/geraldiner/j
 
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
