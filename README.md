@@ -3,6 +3,7 @@
 Forked to be used for training Joie Discord Bot (https://github.com/geraldiner/joie-discord-bot).
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
